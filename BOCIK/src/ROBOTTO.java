@@ -226,37 +226,37 @@ public class ROBOTTO  {
 
         robot.mouseMove(1750,155);
         robot.delay(50);
-        robot.mousePress(InputEvent.BUTTON2_MASK);
+        robot.mousePress(InputEvent.BUTTON3_MASK);
         robot.delay(50);
-        robot.mouseRelease(InputEvent.BUTTON2_MASK);
+        robot.mouseRelease(InputEvent.BUTTON3_MASK);
         robot.delay(50);
 
         robot.mouseMove(1750,185);
         robot.delay(50);
-        robot.mousePress(InputEvent.BUTTON2_MASK);
+        robot.mousePress(InputEvent.BUTTON3_MASK);
         robot.delay(50);
-        robot.mouseRelease(InputEvent.BUTTON2_MASK);
+        robot.mouseRelease(InputEvent.BUTTON3_MASK);
         robot.delay(50);
 
         robot.mouseMove(1785,145);
         robot.delay(50);
-        robot.mousePress(InputEvent.BUTTON2_MASK);
+        robot.mousePress(InputEvent.BUTTON3_MASK);
         robot.delay(50);
-        robot.mouseRelease(InputEvent.BUTTON2_MASK);
+        robot.mouseRelease(InputEvent.BUTTON3_MASK);
         robot.delay(50);
 
         robot.mouseMove(1785,175);
         robot.delay(50);
-        robot.mousePress(InputEvent.BUTTON2_MASK);
+        robot.mousePress(InputEvent.BUTTON3_MASK);
         robot.delay(50);
-        robot.mouseRelease(InputEvent.BUTTON2_MASK);
+        robot.mouseRelease(InputEvent.BUTTON3_MASK);
         robot.delay(50);
 
         robot.mouseMove(1785,215);
         robot.delay(50);
-        robot.mousePress(InputEvent.BUTTON2_MASK);
+        robot.mousePress(InputEvent.BUTTON3_MASK);
         robot.delay(50);
-        robot.mouseRelease(InputEvent.BUTTON2_MASK);
+        robot.mouseRelease(InputEvent.BUTTON3_MASK);
         robot.delay(50);
     }
 
